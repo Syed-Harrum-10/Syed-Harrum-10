@@ -1,21 +1,20 @@
-Hi There!
+HI THERE 👋
 
-Who I Am
-
+Who I Am 
 Full Stack Developer and DevOps Enthusiast with 3 years of experience building scalable web applications and maintaining efficient development workflows
 
-Currently Working On
+Currently Working On 
 Developing full stack applications using NextJS, NestJS, and NodeJS while implementing DevOps practices for CI/CD, deployment, and infrastructure management
 
-Tech Stack
+Tech Stack 
 
 Languages: TypeScript, JavaScript
 
-Frameworks: ReactJS, NextJS, NestJS, NodeJS
+Frameworks: NextJS, NestJS, NodeJS
 
 Databases: SQL, NoSQL
 
 Other Expertise: Asynchronous JavaScript, service-based architectures, DevOps
 
-Focus
-Building maintainable scalable and efficient full stack solutions while continuously improving development workflows and learning modern technologies
+Focus 
+Building maintainable, scalable, and efficient full stack solutions while continuously improving development workflows and learning modern technologies
