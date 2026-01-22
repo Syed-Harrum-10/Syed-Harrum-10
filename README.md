@@ -11,7 +11,7 @@ Tech Stack
 
 Languages: TypeScript, JavaScript
 
-Frameworks: NextJS, NestJS, NodeJS
+Frameworks: ReactJS, NextJS, NestJS, NodeJS
 
 Databases: SQL, NoSQL
 
