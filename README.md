@@ -1,4 +1,7 @@
+Hi There!
+
 Who I Am
+
 Full Stack Developer and DevOps Enthusiast with 3 years of experience building scalable web applications and maintaining efficient development workflows
 
 Currently Working On
