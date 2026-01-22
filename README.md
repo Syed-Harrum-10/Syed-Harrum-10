@@ -1,16 +1,18 @@
-## Hi there 👋
+Who I Am
+Full Stack Developer and DevOps Enthusiast with 3 years of experience building scalable web applications and maintaining efficient development workflows
 
-<!--
-**Syed-Harrum-10/Syed-Harrum-10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Currently Working On
+Developing full stack applications using NextJS, NestJS, and NodeJS while implementing DevOps practices for CI/CD, deployment, and infrastructure management
 
-Here are some ideas to get you started:
+Tech Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages: TypeScript, JavaScript
+
+Frameworks: NextJS, NestJS, NodeJS
+
+Databases: SQL, NoSQL
+
+Other Expertise: Asynchronous JavaScript, service-based architectures, DevOps
+
+Focus
+Building maintainable scalable and efficient full stack solutions while continuously improving development workflows and learning modern technologies
