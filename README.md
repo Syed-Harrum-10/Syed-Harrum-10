@@ -1,6 +1,6 @@
 # Hey, I'm Harrum 
 
-> Full Stack Engineer & DevOps Enthusiast — building scalable systems and grinding DSA daily.
+> Scalable APIs, containerized deployments, and DSA solutions
 
 ---
 
