@@ -63,14 +63,6 @@ developer with 3 years of experience building production-grade web applications 
 
 ---
 
-## GitHub Stats
-
-![](https://github-readme-stats.vercel.app/api?username=Syed-Harrum-10&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-![](https://nirzak-streak-stats.vercel.app/?user=Syed-Harrum-10&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Syed-Harrum-10&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
----
-
 ## Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-harrum-ali-7100b1376/)
