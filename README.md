@@ -49,7 +49,7 @@ developer with 3 years of experience building production-grade web applications 
 
 ## DSA 
 
-| Topic | Status | Days |
+| Topic |
 |---|---|---|
 | Array Basics |
 | Bubble Sort | 
