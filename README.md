@@ -49,14 +49,14 @@ developer with 3 years of experience building production-grade web applications 
 
 ## DSA 
 
-| Topic | Status | Days |
+| Topic | Status |
 |---|---|---|
-| Array Basics | Done | Day 1-15 |
-| Bubble Sort | Done | Day 16-20 |
-| Two Pointer | Done | Day 21-28 |
-| Nested Loops | Done | Day 22-29 |
-| Sliding Window | In Progress | Day 30+ |
-| Binary Search | -- | - |
+| Array Basics | Done |
+| Bubble Sort | Done |
+| Two Pointer | Done |
+| Nested Loops | Done | 
+| Sliding Window | Done
+| Binary Search | In Progress | - |
 | Recursion | -- | - |
 | Linked Lists | -- | - |
 | Trees | -- | - |
