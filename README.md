@@ -63,7 +63,7 @@ developer with 3 years of experience building production-grade web applications 
 
 ---
 
-## Connect
+## Connect 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/syed-harrum-ali-7100b1376/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:syedharrumten@gmail.com)
