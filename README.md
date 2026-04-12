@@ -56,8 +56,8 @@ developer with 3 years of experience building production-grade web applications 
 | Two Pointer | Done |
 | Nested Loops | Done | 
 | Sliding Window | Done
-| Binary Search | In Progress | - |
-| Recursion | -- | - |
+| Binary Search | Done | - |
+| Recursion | In Progress | - |
 | Linked Lists | -- | - |
 | Trees | -- | - |
 
