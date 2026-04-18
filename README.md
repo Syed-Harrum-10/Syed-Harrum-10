@@ -12,7 +12,7 @@ developer with 3 years of experience building production-grade web applications 
 
 ## I'm Currently Working On
 
--  **DSA** — 
+-  **DSA** 
 
 
 ---
@@ -57,8 +57,8 @@ developer with 3 years of experience building production-grade web applications 
 | Nested Loops | Done | 
 | Sliding Window | Done
 | Binary Search | Done |  |
-| Recursion | In Progress |  |
-| Linked Lists | -- | - |
+| Recursion | Done |  |
+| Linked Lists | In Progress | - |
 | Trees | -- | - |
 
 ---
