@@ -58,7 +58,8 @@ developer with 3 years of experience building production-grade web applications 
 | Sliding Window | Done
 | Binary Search | Done |  |
 | Recursion | Done |  |
-| Linked Lists | In Progress | - |
+| Linked Lists | Done | - |
+| Hash Map | In Progress | - |
 | Trees | -- | - |
 
 ---
