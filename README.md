@@ -59,8 +59,8 @@ developer with 3 years of experience building production-grade web applications 
 | Binary Search | Done |  |
 | Recursion | Done |  |
 | Linked Lists | Done | - |
-| Hash Map | In Progress | - |
-| Trees | -- | - |
+| Hash Map | Done | - |
+| Trees | In Progress | - |
 
 ---
 
