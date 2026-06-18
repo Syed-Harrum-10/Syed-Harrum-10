@@ -61,8 +61,8 @@ developer with 3 years of experience building production-grade web applications 
 | Linked Lists | Done | - |
 | Hash Map | Done | - |
 | Trees | Done | - |
-| Graph | In Progress | - |
-| Dynamic Programming | - | - |
+| Graph | Done| - |
+| Dynamic Programming | In Progress | - |
 | Backtracking | - | - |
 | Tries | - | - |
 | Greedy algorithms | - | - |
