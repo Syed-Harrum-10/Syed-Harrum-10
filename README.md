@@ -49,24 +49,7 @@ developer with 3 years of experience building production-grade web applications 
 
 ## DSA 
 
-| Topic | Status |  |
-|---|---|---|
-| Array Basics | Done |
-| Bubble Sort | Done |
-| Two Pointer | Done |
-| Nested Loops | Done | 
-| Sliding Window | Done
-| Binary Search | Done |  |
-| Recursion | Done |  |
-| Linked Lists | Done | - |
-| Hash Map | Done | - |
-| Trees | Done | - |
-| Graph | Done| - |
-| Dynamic Programming | In Progress | - |
-| Backtracking | - | - |
-| Tries | - | - |
-| Greedy algorithms | - | - |
-
+- **200+** LeetCode questions solved using optimal algorithmic patterns (Array, HashMap, Two-Pointer, Sliding Window, Binary Search, Linked List, Trees, Graph, Dynamic Programming, Greedy.
 ---
 
 ## Connect 
