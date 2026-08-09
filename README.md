@@ -17,7 +17,7 @@ developer with 3 years of experience building production-grade web applications 
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### Languages & Frameworks
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
