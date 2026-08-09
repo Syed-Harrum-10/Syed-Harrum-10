@@ -4,7 +4,7 @@
 
 ---
 
-## Who I A
+## Who I Am
 
 Engineer with 3 years of experience building production-grade web applications and DevOps pipelines. Currently working for a US-based company while mastering Data Structures & Algorithms.
 
