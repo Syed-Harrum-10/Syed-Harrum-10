@@ -49,7 +49,7 @@ Engineer with 1+ years of experience building production-grade web applications 
 
 ## DSA 
 
-- **150+** LeetCode questions solved using optimal algorithmic patterns (Array, HashMap, Two-Pointer, Sliding Window, Binary Search, Linked List, Trees, Graph, Dynamic Programming, Greedy.
+- **140+** LeetCode questions solved using optimal algorithmic patterns (Array, HashMap, Two-Pointer, Sliding Window, Binary Search, Linked List, Trees, Graph, Dynamic Programming, Greedy.
 ---
 
 ## Connect 
